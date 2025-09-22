@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 Changes made in file1.txt from main.
+=======
